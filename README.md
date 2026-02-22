@@ -1,2 +1,2 @@
 # hackathon
-you just lost the game
+you just lost the game!
